@@ -20,13 +20,13 @@ Le locataire doit déposer ses comptes au Greffe, fournir l’attestation de dé
  Le dossier n’est pas éligible. Le locataire peut toutefois refaire une AGO et déposer ses comptes dans les délais légaux
 
 * 1.2.	Le dépôt au Greffe a été effectué 
-
-1.2.1.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO n’est pas dépassé : 
+  1.2.1.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO n’est pas dépassé : 
 Le dossier est éligible
-
-1.2.2.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO est dépassé : 
+  1.2.2.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO est dépassé : 
 Le dossier n’est pas éligible. Il est présenté par le Responsable Réseau en COVAL qui étudie la solidité financière du locataire. 
 Si le COVAL décide d’accepter le dossier, la signature du set contractuel est conditionnée par la signature d’une lettre par laquelle le locataire reconnait avoir été tenu informé des conditions d’éligibilité tenant à la formalité de dépôt des comptes au Greffe, et s’engage en cas de contrôle des investisseurs à rembourser le montant du redressement, des intérêts et pénalité y afférant.
+
+
 2.	L’AGO relative aux compte N-1 ne s’est pas tenue :
 
 Les sociétés ont 6 mois après la clôture de leur exercice social pour effectuer leur arrêté comptable, tenir une AGO, et déposer les comptes sociaux au Greffe dans le mois « à date » qui suit la tenue de l’AGO. 
