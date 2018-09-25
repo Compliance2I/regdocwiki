@@ -12,7 +12,7 @@ Quelle que soit la date de signature du dossier il convient de demander au locat
 ![Depot](/uploads/depot.png "Depot")
 Les étapes du processus :
 
-## 1.	L’AGO relative aux compte N-1 s’est tenue, il convient de demander si les comptes relatifs à l’AGO N-1 ont fait l’objet d’un dépôt au Greffe :
+## 1.	L’AGO relative aux compte *N-1* s’est tenue, il convient de demander si les comptes relatifs à l’AGO *N-1* ont fait l’objet d’un dépôt au Greffe :
 * 1.1.	Le dépôt au Greffe n’a pas été effectué : 
   1.1.1.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO n’est pas dépassé :
 Le locataire doit déposer ses comptes au Greffe, fournir l’attestation de dépôt, le dossier est en ce cas éligible.
@@ -35,12 +35,12 @@ Le locataire avait obligation de tenir une AGO statuant sur les comptes N-1 et d
 Le locataire peut toutefois tenir son AGO N-1 et déposer ses comptes dans les délais légaux, le dossier redevient éligible.
 
 * 2.2.	Le dossier est signé dans les 7 mois suivant la clôture de l’exercice social du locataire
-  2.2.1.	 Si l’AGO des comptes N-2 ne s’est pas tenue :  
+  * 2.2.1.	 Si l’AGO des comptes N-2 ne s’est pas tenue :  
 Le dossier n’est pas éligible, 
 Le locataire peut toutefois tenir son AGO N-2 et déposer les comptes au Greffe dans le mois « à date » suivant la tenue de l’AGO, le dossier redevient alors éligible.
 
-  2.2.2.	 Si l’AGO des comptes N-2 s’est tenue :
-    2.2.2.1.	Les comptes N-2 et l’AGO n’ont pas été déposés : 
+  * 2.2.2.	 Si l’AGO des comptes N-2 s’est tenue :
+    * 2.2.2.1.	Les comptes N-2 et l’AGO n’ont pas été déposés : 
 Si le délai de dépôt légal est dépassé le dossier n’est pas éligible.
 Le locataire peut toutefois tenir une nouvelle AGO N-2 et déposer les comptes au Greffe dans le mois « à date » suivant la tenue de l’AGO, le dossier redevient alors éligible.
 
