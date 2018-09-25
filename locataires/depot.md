@@ -15,10 +15,9 @@ Les étapes du processus :
 
 1.	L’AGO relative aux compte N-1 s’est tenue, il convient de demander si les comptes relatifs à l’AGO N-1 ont fait l’objet d’un dépôt au Greffe :
 * 1.1.	Le dépôt au Greffe n’a pas été effectué : 
- * 1.1.1.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO n’est pas dépassé :
+  * 1.1.1.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO n’est pas dépassé :
 Le locataire doit déposer ses comptes au Greffe, fournir l’attestation de dépôt, le dossier est en ce cas éligible.
-
-1.1.2.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO est dépassé :
+  * 1.1.2.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO est dépassé :
  Le dossier n’est pas éligible. Le locataire peut toutefois refaire une AGO et déposer ses comptes dans les délais légaux
 
 1.2.	Le dépôt au Greffe a été effectué 
