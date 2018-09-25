@@ -9,3 +9,6 @@ En 2015 la société a obtenu l’agrément de société de financement et d’e
 ## Manuel d'organisation
 
 ## Recueil de procédures
+Un exemple expérimental de procédure :
+[Procédure de contrôle du dépôt des comptes du locataire au greffe](locataires/depot)
+[Mandat et constitution d'une Demande d'étude de financement (DEF)](locataires/def)
