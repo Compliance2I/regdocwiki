@@ -19,7 +19,7 @@ Le locataire doit déposer ses comptes au Greffe, fournir l’attestation de dé
   1.1.2.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO est dépassé :
  Le dossier n’est pas éligible. Le locataire peut toutefois refaire une AGO et déposer ses comptes dans les délais légaux
 
-1.2.	Le dépôt au Greffe a été effectué 
+* 1.2.	Le dépôt au Greffe a été effectué 
 
 1.2.1.	 Le délai de dépôt dans le mois « à date » suivant la tenue de l’AGO n’est pas dépassé : 
 Le dossier est éligible
