@@ -27,29 +27,20 @@ Le dossier n’est pas éligible. Il est présenté par le Responsable Réseau e
 Si le COVAL décide d’accepter le dossier, la signature du set contractuel est conditionnée par la signature d’une lettre par laquelle le locataire reconnait avoir été tenu informé des conditions d’éligibilité tenant à la formalité de dépôt des comptes au Greffe, et s’engage en cas de contrôle des investisseurs à rembourser le montant du redressement, des intérêts et pénalité y afférant.
 
 
-2.	L’AGO relative aux compte N-1 ne s’est pas tenue :
-
+## 2.	L’AGO relative aux compte N-1 ne s’est pas tenue :
 Les sociétés ont 6 mois après la clôture de leur exercice social pour effectuer leur arrêté comptable, tenir une AGO, et déposer les comptes sociaux au Greffe dans le mois « à date » qui suit la tenue de l’AGO. 
 C’est pourquoi la plupart du temps, les locataires ne pourront pas produire dans le délai de 7 mois suivant la clôture de leur exercice, une AGO relative à la clôture N-1, ni à fortiori d’attestation de dépôt des comptes. Cette situation n’est donc pas anormale. En ce cas il convient de se pencher sur le dépôt des comptes N-2 qui lui est obligatoire, cf. infra §2.2.
-
-
-
-
-2.1.	Le dossier est signé après les 7 mois suivant la clôture de l’exercice social du locataire
-
+* 2.1.	Le dossier est signé après les 7 mois suivant la clôture de l’exercice social du locataire
 Le locataire avait obligation de tenir une AGO statuant sur les comptes N-1 et de les déposer au Greffe, le dossier en l’état n’est donc pas éligible. 
 Le locataire peut toutefois tenir son AGO N-1 et déposer ses comptes dans les délais légaux, le dossier redevient éligible.
 
-2.2.	Le dossier est signé dans les 7 mois suivant la clôture de l’exercice social du locataire
-
-2.2.1.	 Si l’AGO des comptes N-2 ne s’est pas tenue :  
-
+* 2.2.	Le dossier est signé dans les 7 mois suivant la clôture de l’exercice social du locataire
+  2.2.1.	 Si l’AGO des comptes N-2 ne s’est pas tenue :  
 Le dossier n’est pas éligible, 
 Le locataire peut toutefois tenir son AGO N-2 et déposer les comptes au Greffe dans le mois « à date » suivant la tenue de l’AGO, le dossier redevient alors éligible.
 
-2.2.2.	 Si l’AGO des comptes N-2 s’est tenue :
-
-2.2.2.1.	Les comptes N-2 et l’AGO n’ont pas été déposés : 
+  2.2.2.	 Si l’AGO des comptes N-2 s’est tenue :
+    2.2.2.1.	Les comptes N-2 et l’AGO n’ont pas été déposés : 
 Si le délai de dépôt légal est dépassé le dossier n’est pas éligible.
 Le locataire peut toutefois tenir une nouvelle AGO N-2 et déposer les comptes au Greffe dans le mois « à date » suivant la tenue de l’AGO, le dossier redevient alors éligible.
 
