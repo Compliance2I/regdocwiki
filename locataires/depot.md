@@ -62,11 +62,18 @@ Vous devez vous rendre dans la fiche du locataire au paragraphe « Données Fina
 Ce qui vous conduira à l’écran suivant « Saisie données financières » permettant de :
 
 *	Saisir les dates de début et fin des exercices sociaux du locataire :
+   * Si le dossier est signé dans les 7 mois suivant la clôture de l’exercice social du locataire : les champs *N-2* et *N-1* apparaissent, si l’AGO *N-1* n’a pas été tenue vous pouvez renseigner simplement le champ relatif à la date de clôture *N-2*.
 
-  * Si le dossier est signé dans les 7 mois suivant la clôture de l’exercice social du locataire : les champs *N-2* et *N-1* apparaissent, si l’AGO *N-1* n’a pas été tenue vous pouvez renseigner simplement le champ relatif à la date de clôture *N-2*.
-
-  * Si le dossier est signé dans la période située après le délai de 7 mois suivant la clôture de l’exercice du locataire, la date de clôture des comptes *N-1* doit obligatoirement être saisie.
+   * Si le dossier est signé dans la période située après le délai de 7 mois suivant la clôture de l’exercice du locataire, la date de clôture des comptes *N-1* doit obligatoirement être saisie.
 
  NB : si les dates de clôture ont déjà été renseignées lors de la validation d’un dossier précédent, cette étape est inutile, il convient simplement de scanner les justificatifs de tenue de l’AGO et de dépôt des comptes au Greffe, cf. ci-après.
+ 
+ ![Depot Scan](/uploads/depot-scan.png "Depot Scan"){.align-center}
+ 
+*	D’ajouter les documents justifiant la date de tenue de l’AGO ainsi que la date de dépôt des comptes au Greffe :
+Par défaut le champ intitulé « Dépôt des comptes est positionné sur « Non », vous devez sélectionner « Oui », ce qui rend obligatoire la saisie de la « date d’AGO » et de la « Date de dépôt des comptes ». 
+
+Vous pouvez ensuite scanner les documents justificatifs :
+
 
 
