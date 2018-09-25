@@ -54,3 +54,19 @@ Le dossier n’est pas éligible. Il est présenté par le Responsable Réseau e
 Si le COVAL décide d’accepter le dossier, la signature du set contractuel est conditionnée par la signature d’une lettre par laquelle le locataire reconnait d’une part avoir été tenu informé des conditions d’éligibilité tenant à la formalité de dépôt des comptes au Greffe, et s’engage d’autre part à déposer ses comptes N-1 dans les délais légaux. 
 S’il ne respectait pas ses engagements le locataire reconnait être redevable des sommes que l’administration serait amenée à réclamer aux investisseurs y compris les intérêts et pénalités de retard.
 
+## 3.	Saisie TD d’un dossier
+Afin de permettre au Chef d’Agence de valider un dossier sur TD, le locataire doit avoir respecté l’obligation légale de dépôt des comptes. 
+
+Vous devez vous rendre dans la fiche du locataire au paragraphe « Données Financières » et cliquer sur le bouton bleu `Ajouter` : 
+![Depot Ajouter](/uploads/depot-ajouter.png "Depot Ajouter"){.align-center}
+Ce qui vous conduira à l’écran suivant « Saisie données financières » permettant de :
+
+*	Saisir les dates de début et fin des exercices sociaux du locataire :
+
+  * Si le dossier est signé dans les 7 mois suivant la clôture de l’exercice social du locataire : les champs *N-2* et *N-1* apparaissent, si l’AGO *N-1* n’a pas été tenue vous pouvez renseigner simplement le champ relatif à la date de clôture *N-2*.
+
+  * Si le dossier est signé dans la période située après le délai de 7 mois suivant la clôture de l’exercice du locataire, la date de clôture des comptes *N-1* doit obligatoirement être saisie.
+
+ NB : si les dates de clôture ont déjà été renseignées lors de la validation d’un dossier précédent, cette étape est inutile, il convient simplement de scanner les justificatifs de tenue de l’AGO et de dépôt des comptes au Greffe, cf. ci-après.
+
+
