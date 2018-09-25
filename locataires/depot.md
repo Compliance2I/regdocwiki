@@ -9,7 +9,7 @@ Le locataire doit avoir déposé ses comptes sociaux au Greffe du Tribunal de Co
 Quelle que soit la date de signature du dossier il convient de demander au locataire si l’AGO relative à la clôture des comptes *N-1* s’est tenue.
 
 # Processus
-![Depot](/uploads/depot.png "Depot")
+![Depot](/uploads/depot.png "Depot"){.align-center}
 
 Les étapes du processus :
 
