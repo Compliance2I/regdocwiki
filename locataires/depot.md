@@ -74,6 +74,9 @@ Ce qui vous conduira à l’écran suivant « Saisie données financières » pe
 Par défaut le champ intitulé « Dépôt des comptes est positionné sur « Non », vous devez sélectionner « Oui », ce qui rend obligatoire la saisie de la « date d’AGO » et de la « Date de dépôt des comptes ». 
 
 Vous pouvez ensuite scanner les documents justificatifs :
+![Depot Docs](/uploads/depot-docs.png "Depot Docs"){.align-center}
+  * « Attestation de date d’AGO » : vous pouvez scanner le PV d’AGO, l’attestation du Greffe mentionnant la date d’AGO, l’attestation de l’expert-comptable ayant opéré le dépôt
+  * « Preuve ou Récépissé de dépôt au Greffe des comptes sociaux du locataire » : vous pouvez scanner l’attestation du Greffe mentionnant la date de l’exercice déposé et la date du dépôt, l’attestation d’expert-comptable
 
 
 
