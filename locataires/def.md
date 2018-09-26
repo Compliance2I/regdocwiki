@@ -59,4 +59,31 @@ Un compte locataire est créé sur Top-Défisc avec les informations relatives a
 * RIB, relevés de banque récents.
 
 # Contrôle
+Les contrôles de premier niveau sont liés à la gestion du risque. Quelle que soit l’origine d’un nouveau dossier (locataire, démarchage, fournisseur, apporteur), les contrôles seront identiques et systématiques :
+## Risque relatif au secteur (éligibilité). 
+Le contrôle se fait via le renseignement du code APE (NAF) de l’activité du locataire. 
+* Les contrôles liés aux secteurs sont automatiques dans TD. Si le code APE (NAF) n’est pas éligible une alerte apparaît sur l’écran informant le conseiller que le secteur n’est pas éligible, et le dossier ne peut pas être saisi, 
+* Le code APE (NAF) reste indicatif et l’agence doit contrôler la réalité de l’activité et sa correspondance avec le code APE (NAF)
+## Risque relatif au matériel
+Le matériel doit être neuf et immobilisable avec une durée de vie de 5 ans (sauf véhicules particuliers)
+Sont contrôlés :
+* La réalité de l’investissement (visite sur place avec rédaction d’un compte rendu, photos du matériel, PV de livraison, carte grise si immatriculé)
+* La cohérence entre le matériel investi et l’activité du locataire
+* Le prix du matériel : soit par comparaison avec la base de données pour les matériels référencés, soit par des devis comparatifs ou des expertises pour les matériels spécifiques.
+## Risque relatif au locataire
+Sont contrôlés :
+* La réalité de l’activité (fiche INSEE, extrait Kbis, visites sur place).
+* La solidité financière du locataire (extraits bancaires, bilans)
+* La possibilité de relocation du matériel en cas de cessation de l’activité du locataire (pour le matériel spécifique)
+* L’origine des fonds pour le paiement de l’investissement (procédure LCB-FT)
+## Contrôles de validation
+Les dossiers sont contrôlés par et validés successivement par :
+Le conseiller commercial qui remplit le dossier
+Le responsable d’agence
+Le Directeur Réseau
+Le COVAL (comité de validation – 4 Directeurs) pour les dossiers spécifiques supérieurs à 30 k€. Les critères d’éligibilité sont contrôlés dont notamment l’activité, les attestations fiscales et sociales à jour
+Lors du paiement de la part SNC par le bureau de Paris
+A la commercialisation de la SNC par le bureau de Paris
+
+Un dossier incomplet peut engendrer des compléments d’informations ou de documents ou se terminer sur un refus du dossier.
 # Gestion et classement des documents
