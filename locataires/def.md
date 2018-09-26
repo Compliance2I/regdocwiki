@@ -60,7 +60,7 @@ Un compte locataire est créé sur Top-Défisc avec les informations relatives a
 
 # Contrôle
 Les contrôles de premier niveau sont liés à la gestion du risque. Quelle que soit l’origine d’un nouveau dossier (locataire, démarchage, fournisseur, apporteur), les contrôles seront identiques et systématiques :
-## Risque relatif au secteur (éligibilité). 
+## Risque relatif au secteur (éligibilité) 
 Le contrôle se fait via le renseignement du code APE (NAF) de l’activité du locataire. 
 * Les contrôles liés aux secteurs sont automatiques dans TD. Si le code APE (NAF) n’est pas éligible une alerte apparaît sur l’écran informant le conseiller que le secteur n’est pas éligible, et le dossier ne peut pas être saisi, 
 * Le code APE (NAF) reste indicatif et l’agence doit contrôler la réalité de l’activité et sa correspondance avec le code APE (NAF)
@@ -87,3 +87,4 @@ A la commercialisation de la SNC par le bureau de Paris
 
 Un dossier incomplet peut engendrer des compléments d’informations ou de documents ou se terminer sur un refus du dossier.
 # Gestion et classement des documents
+Le mandat de financement est imprimé sur papier et signé par le locataire. Les pièces justificatives recueillies sont classées à l’agence. Elles sont numérisées par l’agence et mises sur la base TD pour procéder au circuit de validation.
