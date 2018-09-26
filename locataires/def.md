@@ -41,20 +41,22 @@ La mise en œuvre du mandat et de la proposition de financement s’effectue au 
 * le Directeur Général ou le Directeur Réseau sont amenés à rencontrer les apporteurs d’affaires lors de leurs déplacements
 * un partenariat peut être remis en cause sur proposition du Responsable d’Agence ou sur décision de la Direction Générale pour les motifs suivants : mauvaise image, mauvaise qualité des dossiers avec anomalies trop fréquentes, commentaires négatifs de clients ou de fournisseurs ou d’organismes financiers, non-respect des procédures, concurrence directe avec l’agence
 
-Une fois les informations récupérées sur un locataire :
-•	Un mandat est constitué avec les renseignements suivants :
-­	Secteur d’activité, matériel investi (type, prix)
-­	Raison sociale de l’exploitant
-­	Mode de financement (Comptant, Prêt bancaire ou Crédit SOFICOM/SOFIDOM)
-•	Une simulation financière est effectuée.
-•	Une proposition écrite est générée comprenant les informations recueillies et la simulation financière, et envoyée au locataire.
-•	Si la proposition financière (mandat) est acceptée et signée par le locataire, l’agence recherche un financement (sauf dossiers comptant). Si le financement est accordé, le mandat est transformé en dossier.
-•	Un compte locataire est créé sur Top-Défisc (voir point 2.1.2) avec les informations relatives au locataire, dont notamment :
-	Pièce d’identité, permis de conduire
-	Extrait Kbis ou fiche INSEE, statuts si société
-	Attestations fiscales et sociales, preuve de dépôt des comptes au Greffe
-	Dernier bilan ou Avis d’Imposition
-	RIB, relevés de banque récents.
+## Création d'un mandat
+Une fois les informations récupérées sur un locataire, un mandat est constitué avec les renseignements suivants :
+* Secteur d’activité, matériel investi (type, prix)
+* Raison sociale de l’exploitant
+* Mode de financement (Comptant, Prêt bancaire ou Crédit SOFICOM/SOFIDOM)
+* Une simulation financière est effectuée.
+* Une proposition écrite est générée comprenant les informations recueillies et la simulation financière, et envoyée au locataire.
+Si la proposition financière (mandat) est acceptée et signée par le locataire, l’agence recherche un financement (sauf dossiers comptant). Dans ce cas, si le financement est accordé, le mandat est transformé en dossier.
+
+### Fonctionnement sur TD
+Un compte locataire est créé sur Top-Défisc avec les informations relatives au locataire, dont notamment :
+* Pièce d’identité, permis de conduire
+* Extrait Kbis ou fiche INSEE, statuts si société
+* Attestations fiscales et sociales, preuve de dépôt des comptes au Greffe
+* Dernier bilan ou Avis d’Imposition
+* RIB, relevés de banque récents.
 
 # Contrôle
 # Gestion et classement des documents
