@@ -1,5 +1,6 @@
 <!-- TITLE: RegDocWiki -->
 <!-- SUBTITLE: Documentation réglementaire -->
+<!-- AUTHOR: jmc -->
 
 # Référentiel de documentation réglementaire INTER INVEST
 L’activité d’Inter Invest est constituée par le financement, la distribution et la gestion des investissements dans les Départements d’Outre-Mer (DOM) et les Collectivités d’Outre-Mer (COM). Depuis sa création en 1995, la préoccupation principale de la société a été d’apporter à ses clients – les Conseils en Gestion de Patrimoine et les investisseurs particuliers – des solutions d’investissements à faible risque financier et fiscal, d'une part, et de financer l'économie réelle des outres-mers d'autre part. 
